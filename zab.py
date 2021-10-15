@@ -111,7 +111,7 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 
-print """
+logo = """
 \033[1;37m    d8888b. d888888b .d8888. db   db db    db 
 \033[1;37m    88  `8D   `88'   88'  YP 88   88 88    88 
 \033[1;37m    88oobY'    88    `8bo.   88ooo88 88    88 
@@ -124,7 +124,7 @@ print """
 \033[1;37m        \033[1;37m➤ AUTHOR   : RISHU KHAN           
 \033[1;37m        \033[1;37m➤ VERSION  : 3.0                  
 \033[1;37m        \033[1;37m➤ FACEBOOK : www.fb.com/al3x.rishu 
-\033[1;37m  ─────────────────────────────────────────────
+\033[1;37m  ─────────────────────────────────────────────"""
 CorrectUsername = "ok"
 
 CorrectPassword = "ok"
