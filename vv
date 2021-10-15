@@ -599,7 +599,7 @@ def crack_select():
 			print('')
 			print("  \x1b[1;37m[\033[1;91m\033[1;47m------------AUTO PASS CLONING-------------\033[0m]\033[0;97m")
 			print("  ─────────────────────────────────────────────")
-			print(" [✓] Cloning from : \x1b[1;32m"+q["name"])
+			print(" [*] Cloning from : \x1b[1;32m"+q["name"])
 		except KeyError:
 			print("\t\x1b[1;31mInvalid link OR token")
 			print("")
@@ -627,7 +627,7 @@ def crack_select():
 			print('')
 			print("  \x1b[1;37m[\033[1;91m\033[1;47m------------AUTO PASS CLONING-------------\033[0m]\033[0;97m")
 			print('')
-			print("   [✓] Cloning from : \x1b[1;32m"+q["name"])
+			print("   [*] Cloning from : \x1b[1;32m"+q["name"])
 		except KeyError:
 			print("\t\x1b[1;31mInvalid id link OR token")
 			print("")
@@ -852,7 +852,7 @@ def choice_select():
 			print("  \x1b[1;37m[\033[1;91m\033[1;47m-------------CHOICE PASS CRACK------------\033[0m]\033[0;97m")
 			print("")
 			print("  ─────────────────────────────────────────────")
-			print("  [✓] Cloning from : \x1b[1;32m"+q["name"])
+			print("  [*] Cloning from : \x1b[1;32m"+q["name"])
 		except KeyError:
 			print("\t\x1b[1;31mInvalid id link")
 			print("")
@@ -886,7 +886,7 @@ def choice_select():
 			print("  [\033[1;91m\033[1;47m--------------CHOICE PASS CRACK------------\033[0m]\033[0;97m")
 			print('')
 			print("  ─────────────────────────────────────────────")
-			print("  [✓] Cloning from : \x1b[1;32m"+q["name"])
+			print("  [*] Cloning from : \x1b[1;32m"+q["name"])
 		except KeyError:
 			print("\t\x1b[1;31mInvalid id link")
 			print("")
