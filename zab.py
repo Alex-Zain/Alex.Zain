@@ -1,7 +1,5 @@
-#!/usr/bin/python2
-
 #coding=utf-8
-
+#!/usr/bin/python2
 #The Credit For This Code Goes To Zubair Ahmad
 
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
