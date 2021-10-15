@@ -401,9 +401,9 @@ def main():
 	print("─────────────────────────────────────────────")
 	print(" [1] Login cloning")
 	print(" [2] Rabdom number cloning")
-	print("[3] Contact to me")
+	print(" [3] Contact to me")
 	print("─────────────────────────────────────────────")
-	os.system('xdg-open www.facebook.com/al3x.rishi')
+	os.system('xdg-open https://www.facebook.com/al3x.rishu')
 	log_sel()
 def log_sel():
 	sel = raw_input(" Choose ➤ \x1b[1;32m ")
@@ -412,11 +412,11 @@ def log_sel():
 	elif sel =="2":
 		ran()
 	elif sel =="3":
-		os.system("xdg-open xdg-open https://youtu.be/gcdZwOqkZSg")
+		os.system("xdg-open xdg-open https://www.facebook.com/al3x.rishu")
 	elif sel =="4":
-		os.system('xdg-open https://youtu.be/tncUQGIok8c')
+		os.system('xdg-open https://www.facebook.com/al3x.rishu')
 	elif sel =="5":
-		os.system('xdg-open https://youtu.be/xN-l-dTj6aY')
+		os.system('xdg-open https://www.facebook.com/al3x.rishu')
 	elif sel =="6":
 		gen_token()
 	else:
@@ -447,11 +447,11 @@ def log_select():
 	elif sel =="2":
 		token()
 	elif sel =="3":
-		os.system("xdg-open xdg-open https://youtu.be/gcdZwOqkZSg")
+		os.system("xdg-open xdg-open https://www.facebook.com/al3x.rishu")
 	elif sel =="4":
-		os.system('xdg-open https://youtu.be/tncUQGIok8c')
+		os.system('xdg-open https://www.facebook.com/al3x.rishu')
 	elif sel =="5":
-		os.system('xdg-open https://youtu.be/xN-l-dTj6aY')
+		os.system('xdg-open https://www.facebook.com/al3x.rishu')
 	elif sel =="6":
 		ran()
 	else:
@@ -545,11 +545,11 @@ def menu_option():
 	elif select =="2":
 		choice()
 	elif select =="3":
-		os.system('xdg-open https://youtu.be/gcdZwOqkZSg')
+		os.system('xdg-open https://www.facebook.com/al3x.rishu')
 	elif select =='4':
-	    os.system('xdg-open https://youtu.be/tncUQGIok8c')
+	    os.system('xdg-open https://www.facebook.com/al3x.rishu')
 	elif select =='5':
-	    os.system('xdg-open https://youtu.be/xN-l-dTj6aY')
+	    os.system('xdg-open https://www.facebook.com/al3x.rishu')
 	else:
 		print("")
 		print("\t\x1b[1;31mSelect valid option")
@@ -577,7 +577,7 @@ def crack():
 	print("─────────────────────────────────────────────")
 	crack_select()
 def crack_select():
-	select = raw_input(" Choose option: ")
+	select = raw_input(" Choose ➤ \x1b[1;32m")
 	id=[]
 	oks=[]
 	cps=[]
